@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  input {
+    display: block;
+    margin: 10px 0;
+    padding: 5px;
+  }
+  
+  #tshirtPreview {
+    width: 200px;
+    height: 300px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 50px;
+  }
+  
+  .preview-box {
+    width: 200px;
+    height: 300px;
+    border: 1px solid #333;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: sans-serif;
+  }
+  
